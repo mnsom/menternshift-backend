@@ -50,6 +50,7 @@ group :development do
   # gem "spring"
 end
 
+gem "devise", "~> 4.9"
 gem 'rubocop', '~> 1.58', require: false
 
 gem 'brakeman'
